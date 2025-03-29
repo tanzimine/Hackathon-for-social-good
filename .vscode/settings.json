@@ -1,0 +1,6 @@
+{
+    "ecl.forceProxySupport": true,
+    "ecl.launchConfiguration": "WorkshopCluster",
+    "ecl.targetCluster": {},
+    "ecl.eclccPath": "/opt/HPCCSystems/9.10.12/clienttools/bin/eclcc"
+}
