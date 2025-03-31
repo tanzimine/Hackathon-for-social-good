@@ -1,5 +1,6 @@
 ## 🏆 Submission Highlight – Code Guardians (3rd Place Winners)
-
+🔗 **[DEMO – Project Summary]**  
+[Code Guardians- Hackathon For Social Good Presentation.pdf](https://github.com/user-attachments/files/19540085/Code.Guardians-.Hackathon.For.Social.Good.Presentation.pdf)
 ### Project Title: Child Vulnerability Score (CVS) Engine  
 **Team Members:** Marwa, Tanzim Mahtab, Vanessa Espinoza, Naga Malleswari  
 **Award:** 🥉 Third Place, HPCC Systems 2025 Hackathon – *Help Missing Kids*
@@ -17,13 +18,11 @@ The **Child Vulnerability Score (CVS) Engine** was developed to identify areas w
 - Education & School Dropout Rates  
 - Child Protective Services (CPS) Reports  
 - Proximity to Motels, Shelters, and High-Traffic Zones  
-- Percentage of Single-Parent Households  
-
-🔗 **[DEMO – Project Summary]**  
-[Code Guardians- Hackathon For Social Good Presentation.pdf](https://github.com/user-attachments/files/19540085/Code.Guardians-.Hackathon.For.Social.Good.Presentation.pdf)
+- Percentage of Single-Parent Households
 
 
 
+***CHALLENGE EXPLANATION***
 
 # Help Missing Kids! 
 Welcome to the 2025 HPCC Systems and ECL Code Challenge, titled "Help Missing Kids"!
