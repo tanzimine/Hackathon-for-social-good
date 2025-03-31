@@ -22,7 +22,7 @@ The **Child Vulnerability Score (CVS) Engine** was developed to identify areas w
 
 
 
-***CHALLENGE EXPLANATION***
+-----------------------
 
 # Help Missing Kids! 
 Welcome to the 2025 HPCC Systems and ECL Code Challenge, titled "Help Missing Kids"!
