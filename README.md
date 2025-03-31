@@ -1,4 +1,4 @@
-## 🏆 Submission Highlight – Code Guardians (3rd Place Winners)
+## 🏆 Submission Highlight – Code Guardians (3rd Place Winner)
 🔗 **[DEMO – Project Summary]**  
 [Code Guardians- Hackathon For Social Good Presentation.pdf](https://github.com/user-attachments/files/19540085/Code.Guardians-.Hackathon.For.Social.Good.Presentation.pdf)
 ### Project Title: Child Vulnerability Score (CVS) Engine  
