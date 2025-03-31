@@ -2,7 +2,7 @@
 🔗 **[DEMO – Project Summary]**  
 [Code Guardians- Hackathon For Social Good Presentation.pdf](https://github.com/user-attachments/files/19540085/Code.Guardians-.Hackathon.For.Social.Good.Presentation.pdf)
 ### Project Title: Child Vulnerability Score (CVS) Engine  
-**Team Members:** Marwa, Tanzim Mahtab, Vanessa Espinoza, Naga Malleswari  
+**Team Members:**Tanzim Mahtab Khandaker, Vanessa Espinoza, Naga Malleswari  
 **Award:** 🥉 Third Place, HPCC Systems 2025 Hackathon – *Help Missing Kids*
 
 ---
